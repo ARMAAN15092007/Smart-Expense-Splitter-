@@ -147,25 +147,26 @@ Algorithm Steps:
 Purpose:
 When the program starts, it automatically loads previously saved data from the file (if available).
 This allows users to continue from where they left off.
+
 4.	Demo Screenshots
 Code:
- ![Uploading image.png…]()
-
- 
- 
- 
- 
- 
- 
- 
-
+<img width="915" height="423" alt="image" src="https://github.com/user-attachments/assets/c70d27b4-03d6-4148-bd5a-9f371da19110" />
+<img width="915" height="464" alt="image" src="https://github.com/user-attachments/assets/b7dabbeb-1659-43a9-b0cd-ce5f10b84f1a" />
+<img width="915" height="465" alt="image" src="https://github.com/user-attachments/assets/10984908-46d6-4d69-90d3-5ec7c6ebbfa9" />
+<img width="915" height="447" alt="image" src="https://github.com/user-attachments/assets/bcaff56f-6678-4d0c-89b1-af36ee147932" />
+<img width="915" height="465" alt="image" src="https://github.com/user-attachments/assets/25c71d3a-b5d0-49bc-85e6-dd3c6c78bb10" />
+<img width="915" height="439" alt="image" src="https://github.com/user-attachments/assets/5c3e9bfb-8547-46a6-ab93-78e0debbe6aa" />
+<img width="915" height="480" alt="image" src="https://github.com/user-attachments/assets/9325e862-5274-4d5e-ab75-01af6588673e" />
+<img width="915" height="403" alt="image" src="https://github.com/user-attachments/assets/4546276d-2352-4590-a14a-6ab14049515b" />
 
 Run/output screenshots:
- 
- 
- 
- 
- 
+
+<img width="915" height="490" alt="image" src="https://github.com/user-attachments/assets/6cf4517d-9675-4bfa-aacc-32cd061d0e72" />
+<img width="915" height="501" alt="image" src="https://github.com/user-attachments/assets/b604464e-b1ce-44ad-b311-d55da500ba69" />
+<img width="915" height="511" alt="image" src="https://github.com/user-attachments/assets/57dbfaec-c1e1-49b7-a8a6-257773a295e8" />
+<img width="915" height="525" alt="image" src="https://github.com/user-attachments/assets/d219983a-6e8f-46b1-8c36-0ec9d47161eb" />
+<img width="915" height="647" alt="image" src="https://github.com/user-attachments/assets/e2a75882-6326-476b-8691-5c6a032fb421" />
+<img width="915" height="760" alt="image" src="https://github.com/user-attachments/assets/d1ff59e6-1147-4ddd-9ea1-0d92ee49a1fe" /> 
  
 5. Conclusion
 
